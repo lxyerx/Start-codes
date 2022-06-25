@@ -10,9 +10,6 @@
 	
 		float carpim = (uzunluk * yukseklik) /2;
 		System.out.println(carpim);
-
-
 		
 	}
-
 }
