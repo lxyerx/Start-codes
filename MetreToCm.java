@@ -14,5 +14,3 @@
 		System.out.printf("%.0f- Metre - %.0f Cm eder",metre,donusturme);
 		
 	}
-
-} 
