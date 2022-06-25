@@ -9,3 +9,11 @@
 			System.out.println(v);
 		}
 	}
+
+	public static void main(String[] args) {
+
+		int[] dizi1 = { 1, 2, 3, 4, 5 };   
+
+		System.out.println(Arrays.toString(dizi1));  // Arrays.to String arrays sınıfının özelliği
+
+	}
