@@ -4,7 +4,7 @@ public static void main(String[] args) {
 		System.out.print("Donustureceginiz inc uzunlugunu giriniz: ");
     
 		Scanner klavye = new Scanner(System.in);
-    double inc = klavye.nextDouble();
+                double inc = klavye.nextDouble();
 		
 		double formul = 2.54;	
 		
