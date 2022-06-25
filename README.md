@@ -1,0 +1,2 @@
+# Start-codes
+Başlangıç kodları
