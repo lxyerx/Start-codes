@@ -1,6 +1,5 @@
 	public static void main(String[] args) {
 		
-
 		Scanner klavye = new Scanner(System.in);
 		
 		String ters = "";
