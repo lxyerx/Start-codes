@@ -2,7 +2,7 @@
 
 		Scanner klavye = new Scanner(System.in);
 		
-		System.out.print("Ucgenin Uzunlu�unu Girin: ");
+		System.out.print("Ucgenin Uzunlugunu Girin: ");
 		float uzunluk = klavye.nextFloat();
 		
 		System.out.print("Ucgenin Yuksekligini Girin: ");
