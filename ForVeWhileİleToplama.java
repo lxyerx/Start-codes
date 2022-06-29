@@ -13,3 +13,20 @@
 		System.out.println("Sayilarin Toplami: " + toplam);
 
 	}
+
+	public static void main(String[] args) {
+
+		Scanner klavye = new Scanner(System.in);
+
+		int sayac = 1; 
+		int toplam = 0;
+		while(sayac <= 10) {
+			int sayi = klavye.nextInt();
+			toplam += sayi;
+			sayac++;
+		}
+		System.out.println("Sayilarin toplami " + toplam);	
+
+	}
+
+}
