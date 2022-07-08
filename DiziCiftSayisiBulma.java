@@ -39,3 +39,34 @@
 		}
 		System.out.println("Cift sayisi " + sayac);
 	}
+
+
+	// alttaki kullanıcıdan diziye 3 eleman alır ve dizi içerisindeki tekleri 0 olarak yazdırır çiftleri ise direkt ekrana yazar
+	// sorgu kısmında iki dizi kullandım farklı yöntemler olabilir denemek lazım
+
+	public static boolean bolum(int n) {
+
+		if (n % 2 == 0) {
+			return true;
+		} else
+			return false;
+	}
+
+	public static void main(String[] args) {
+
+		Scanner klavye = new Scanner(System.in);
+		int sayac = 0;
+		int[] dizi = new int[3];
+		int[] dizi1 = new int[3];
+		for (int i = 0; i < dizi.length; i++) {
+			dizi[i] = klavye.nextInt();
+			if (bolum(dizi[i])) {
+				dizi1[i] = dizi[i];
+			}
+		}
+
+		for (int i : dizi1) {
+			System.out.print("\t" + i);
+		}
+
+	}
