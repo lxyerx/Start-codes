@@ -9,8 +9,5 @@ Arrays Kullanılıyorsa import etmeyi unutmayınız ( import java.util.Arrays; )
 
 Random Kullanılıyorsa import etmeyi unutmayınız ( import java.util.Random; )
 
-JOptionPane kullanılıyorsa import etmeyi ve parantezleri kontrol etmeyi unutmayın ( import javax.swing.JOptionPane; )
-
-
 eğer her şeyi doğru yaptıysanız kodlar çalışıyordur hepsini el emeğimle yazıp kontrol ettim bir hatam varsa yıllar sonra bile olsa yazabilirsiniz görürüm...
 
