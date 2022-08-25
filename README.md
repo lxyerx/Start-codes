@@ -6,7 +6,7 @@ Bir yazılım dilini öğrendiğimiz zaman proje üretmekte zorluk yaşayabiliyo
 Kodları Okurken Kullanıcıdan veri alınıyorsa Scanner sınıfı import edilmediyse etmezseniz çalışmaz hata alırsınız 
 
 - ( import java.util.Scanner; )
-- 
+
 - Arrays Kullanılıyorsa import etmeyi unutmayınız ( import java.util.Arrays; )
 
 - Random Kullanılıyorsa import etmeyi unutmayınız ( import java.util.Random; )
